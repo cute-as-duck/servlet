@@ -1,0 +1,6 @@
+server:
+  servlet:
+    context-parameters:
+      name: Lassie
+  port: 8081
+
